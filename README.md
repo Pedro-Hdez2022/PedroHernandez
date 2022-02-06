@@ -1,8 +1,8 @@
 # Hello there!
 
-- 💻 Atualmente trabalho como desenvolvedor Freelancer de Front-End ...
-- 📜 Formado pela Talenter IT Academy em Desenvolvimento Fullstack ...
-- 📕 Continuo à estudar novas tecnologias e à aprimorar os conhecimentos já estabelecidos ...
+- 💻 Atualmente trabalho como desenvolvedor Freelancer de Front-End
+- 📜 Formado pela Talenter IT Academy em Desenvolvimento Fullstack
+- 📕 Continuo à estudar novas tecnologias e à aprimorar os conhecimentos já estabelecidos
 - 🐱‍🏍 Contate-me no email: pedrohernandez.contact@gmail.com
 
 <div align="center">
