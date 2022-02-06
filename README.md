@@ -22,6 +22,4 @@
   
 ## 
 
-<div> 
-  ![Snake animation](https://github.com/Pedro-Hdez2022/PedroHernandez/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/Pedro-Hdez2022/PedroHernandez/blob/output/github-contribution-grid-snake.svg)
